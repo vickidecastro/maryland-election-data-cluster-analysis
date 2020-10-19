@@ -27,6 +27,7 @@ I used a 4-cluster analysis in Excel to look at voting patterns across counties 
 - Number of Republicans
 
 <img width="581" alt="Screen Shot 2020-10-19 at 12 11 41 PM" src="https://user-images.githubusercontent.com/70858878/96477519-9beb7280-1204-11eb-8e49-3213f75a7f21.png">
+
 _Figure 1: 4 clusters using absentee voters, early voters, Democrats, and Republicans_
 
 
@@ -41,12 +42,14 @@ _Process_
 - Using Excel Solver, run 4-cluster analysis with constraints
 
 <img width="1061" alt="Screen Shot 2020-10-19 at 12 13 22 PM" src="https://user-images.githubusercontent.com/70858878/96477496-9130dd80-1204-11eb-9d66-a8cc72bd50fb.png">
+
 _Figure 2: cluster analysis process using Excel Solver_
 
 # Summary
 Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be Howard County, Worcester County, Prince George's County, and Baltimore County. The 4 variables chosen were number of absenee voters, number of early voters, number of Democrats, and number of Republicans. We found that Howard County, the first cluster, has an average number of absentee voters, a high amount of early voters, an average amount of Democrats, and a high amount of Republicans. This cluster has five counties in it. In Worcester County, the second cluster, we found a low amount of absentee voters, a low amount of early voters, a low amount of Democrats, and a low amount of Republicans. This cluster has 15 counties in it. In Prince George's County, the third cluster, there is a high amount of absentee voters, a high amount of early voters, a lot of Democrats, and a low amount of Republicans. This cluster only has one county in it. In Baltimore County, the fourth cluster, there is a high amount for all four variables. This cluster has three counties in it.
 
 <img width="783" alt="Screen Shot 2020-10-19 at 1 08 57 PM" src="https://user-images.githubusercontent.com/70858878/96488624-44e99b80-120c-11eb-9a9b-3123290d68ec.png">
+
 _Figure 3: data visualization of counties within each cluster_
 
 
