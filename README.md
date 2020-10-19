@@ -56,7 +56,7 @@ Cluster 2 is the largest cluster in the analysis, and it has low Democrats and l
 
 Out of Maryland, it may be beneficial to do a cluster analysis using party affiliation for swing states, as a candidate could again look at the z-scores for party affiliation and increase rallying and campaigning in the areas that have low scores. 
 
-In terms of absentee ballots, this data is useful for local governments that are considering automatically sending mail-in ballots to individuals within a county. Using a cluster analysis, local officials could see which counties have a high amount of people using absentee ballots, which likely means they would vote-by-mail if given the option. Thus, local officials could send mail-in ballots to individuals in counties with a high z-score for absentee voting. 
+In terms of absentee ballots, this data is useful for local governments that are considering automatically sending mail-in ballots to individuals within a county. Using a cluster analysis, local officials could see which counties have a high amount of people using absentee ballots, which likely means they would vote-by-mail if given the option. Thus, local officials could send mail-in ballots to individuals in counties with a high z-score for absentee voting. Clusters 3 and 4 have high absentee voters, so local governments may want to consider automatically sending mail-in ballots to individuals in these counties as they may be more open to vote-by-mail. 
 
 I find voting behaviors to be a very interesting topic, and if I were to add more clusters to the mix, I would add age as a cluster to my analysis. 
 
