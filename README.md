@@ -8,7 +8,7 @@ How is party affiliation information useful to a candidate running for local off
 
 
 ## Data Sources
-- 2016 Maryland General Elections Data by Party and County: For the general election on November 28, 2016. The file contained information on the number of people voting at the polls. early voters, absentee voters, provisional voters, total eligible voters, and voter turnout. The data also included all of these metrics separated by party-- Democrat and Republican-- as well. 
+- [2016 Maryland General Elections Data by Party and County](https://github.com/vickidecastro/maryland-election-data-cluster-analysis/blob/main/party%20county%20election%20data.xlsx): For the general election on November 28, 2016. The file contained information on the number of people voting at the polls. early voters, absentee voters, provisional voters, total eligible voters, and voter turnout. The data also included all of these metrics separated by party-- Democrat and Republican-- as well. 
 
 ## Data Question(s)
 How should counties be organized using voting patterns in Maryland? 
