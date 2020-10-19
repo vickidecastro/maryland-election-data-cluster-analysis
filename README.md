@@ -61,5 +61,4 @@ In terms of absentee ballots, this data is useful for local governments that are
 
 I find voting behaviors to be a very interesting topic, and if I were to add more clusters to the mix, I would add age as a cluster to my analysis. 
 
-
-![image](https://user-images.githubusercontent.com/70858878/96489275-3bacfe80-120d-11eb-8fee-c1dcef8451b3.png)
+![image](https://user-images.githubusercontent.com/70858878/96489627-ac541b00-120d-11eb-9e07-4b9cac390115.png)
