@@ -16,10 +16,20 @@ How are Maryland counties grouped based on number of absentee voters, number of 
 
 ## Data Analysis
 _4-Cluster Analysis_
-I used a 4 cluster analysis to look at voting patterns across counties in Maryland. The 4 clusters were based on: 
+
+I used a 4-cluster analysis in Excel to look at voting patterns across counties in Maryland. The 4 clusters were based on: 
 - Number of absentee voters
 - Number of early voters
 - Number of Democrats
 - Number of Republicans
 
 
+_Process_
+- Gather data for each cluster
+- Calculate mean and standard deviations for each cluster
+- Calculate z-scores for each cluster
+- Calculate distance^2 for each cluster
+- Use formula to find minimum distance^2 for each county
+- Sum all the minimum distance^2s 
+- Use match function to identify anchor number for each county
+- Using Excel Solver, run 4-cluster analysis with constrains
