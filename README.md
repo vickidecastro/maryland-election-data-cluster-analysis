@@ -50,11 +50,12 @@ Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be How
 Figure 3: data visualization of counties within each cluster
 
 
+
 These results were very interesting. In terms of party affiliation, the information on z-scores for Democrats and Republicans would be useful for candidates who are running for a position within the local or state government, such as governor or county comissioner. Those running for office in the local government could look at the results of the cluster analysis and see which counties have high (or low) z-scores for number of Democrats and number of Republicans. If the z-score is low, the candidate may want to direct more resources and campaigning to those areas to capture more voters. 
 
 Cluster 2 is the largest cluster in the analysis, and it has low Democrats and low Republicans, and this informatino is useful for a candidate running for local office that wants to sway counties to favor him/her.
 
-Out of Maryland, it may be beneficial to do a cluster analysis using party affiliation for swing states, as a candidate could again look at the z-scores for party affiliation and increase rallying and campaigning in the areas that have low scores. 
+Out of Maryland, it may be beneficial to do a cluster analysis using party affiliation for swing states, as a candidate could again look at the z-scores for party affiliation and increase rallying and campaigning in the districts/counties that have low scores. 
 
 In terms of absentee ballots, this data is useful for local governments that are considering automatically sending mail-in ballots to individuals within a county. Using a cluster analysis, local officials could see which counties have a high amount of people using absentee ballots, which likely means they would vote-by-mail if given the option. Thus, local officials could send mail-in ballots to individuals in counties with a high z-score for absentee voting. Clusters 3 and 4 have high absentee voters, so local governments may want to consider automatically sending mail-in ballots to individuals in these counties as they may be more open to vote-by-mail. 
 
