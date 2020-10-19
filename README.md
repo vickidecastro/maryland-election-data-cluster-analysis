@@ -7,7 +7,7 @@ I decided to explore this topic in the wake of the upcoming election on November
 How should counties in Maryland be organized based on voting patterns? 
 
 ## Data Sources
-- 2016 Maryland General Elections Data by Party and County: For the election on November 28, 2016 between Donald Trump and Hillary Clinton. The file contained information on the number of people voting at the polls. early voters, absentee voters, provisional voters, total eligible voters, and voter turnout. The data also included all of these metrics separated by party-- only Democrat and Republican-- as well. 
+- 2016 Maryland General Elections Data by Party and County: For the election on November 28, 2016 between Donald Trump and Hillary Clinton. The file contained information on the number of people voting at the polls. early voters, absentee voters, provisional voters, total eligible voters, and voter turnout. The data also included all of these metrics separated by party-- Democrat and Republican-- as well. 
 
 ## Data Question(s)
 Which variables are the most appropriate to create a cluster analysis with? How many anchors should we pick? 
