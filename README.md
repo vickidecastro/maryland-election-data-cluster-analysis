@@ -15,7 +15,11 @@ Which variables are the most appropriate to create a cluster analysis with? How 
 How are Maryland counties grouped based on number of absentee voters, number of early voters, number of Democrats and number of Republicans? 
 
 ## Data Analysis
-4-Cluster Analysis: 
-- In 
+_4-Cluster Analysis_
+I used a 4 cluster analysis to look at voting patterns across counties in Maryland. The 4 clusters were based on: 
+- Number of absentee voters
+- Number of early voters
+- Number of Democrats
+- Number of Republicans
 
 
