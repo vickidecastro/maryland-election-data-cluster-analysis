@@ -23,6 +23,9 @@ I used a 4-cluster analysis in Excel to look at voting patterns across counties 
 - Number of Democrats
 - Number of Republicans
 
+<img width="581" alt="Screen Shot 2020-10-19 at 12 11 41 PM" src="https://user-images.githubusercontent.com/70858878/96477519-9beb7280-1204-11eb-8e49-3213f75a7f21.png">
+
+
 _Process_
 - Gather data for each cluster
 - Calculate mean and standard deviations for each cluster
@@ -38,8 +41,6 @@ _Process_
 
 # Summary
 Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be Howard County, Worcester County, Prince George's County, and Baltimore County. The 4 variables chosen were number of absenee voters, number of early voters, number of Democrats, and number of Republicans. We found that Howard County, the first cluster, has an average number of absentee voters, a high amount of early voters, an average amount of Democrats, and a high amount of Republicans. In Worcester County, the second cluster, we found a low amount of absentee voters, a low amount of early voters, a low amount of Democrats, and a low amount of Republicans. In Prince George's County, the third cluster, there is a high amount of absentee voters, a high amount of eraly voters, a lot of Democrats, and a low amount of Republicans. In Baltimore County, the fourth cluster, there is a high amount for all four variables. 
-
-<img width="581" alt="Screen Shot 2020-10-19 at 12 11 41 PM" src="https://user-images.githubusercontent.com/70858878/96477519-9beb7280-1204-11eb-8e49-3213f75a7f21.png">
 
 
 These results were very interesting. I am thinking it would be beneficial for candidates on the campaign trail to get an idea of how the voter base is clustered by county within states so that a Democrat, for example, would know which counties may lean either direction and thus be more susceptible to direct campaigning and rallying in those areas. Doing a cluster analysis using party affiliatoin could be beneficial to a politician as he/she could see where the z-scores for Republicans/Democrats are low, and then direct resources to those counties. 
