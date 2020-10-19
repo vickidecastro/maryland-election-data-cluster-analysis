@@ -4,12 +4,15 @@
 I decided to explore this topic in the wake of the upcoming election on November 3, 2020. As someone who may live in Baltimore for the next few years after graduation, I wanted to see the voting patterns by county using the 2016 Maryland General Election Data, organized by county and party. I was particularly interested to see how the party affiliations affected the cluster analysis, as Maryland is known to be a blue state. 
 
 ## Business Question
-How should counties in Maryland be organized based on voting patterns? 
+How is party affiliation information useful to a candidate running for local office? Are there any counties with a high amount of absentee voters that will be likely to use mail-in voting for the upcoming election? 
+
 
 ## Data Sources
 - 2016 Maryland General Elections Data by Party and County: For the general election on November 28, 2016 between Donald Trump and Hillary Clinton. The file contained information on the number of people voting at the polls. early voters, absentee voters, provisional voters, total eligible voters, and voter turnout. The data also included all of these metrics separated by party-- Democrat and Republican-- as well. 
 
 ## Data Question(s)
+How should counties be organized using voting patterns in Maryland? 
+
 Which variables are the most appropriate to create a cluster analysis with? How many anchors should we pick? 
 
 How are Maryland counties grouped based on number of absentee voters, number of early voters, number of Democrats and number of Republicans? 
@@ -42,8 +45,9 @@ _Process_
 # Summary
 Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be Howard County, Worcester County, Prince George's County, and Baltimore County. The 4 variables chosen were number of absenee voters, number of early voters, number of Democrats, and number of Republicans. We found that Howard County, the first cluster, has an average number of absentee voters, a high amount of early voters, an average amount of Democrats, and a high amount of Republicans. In Worcester County, the second cluster, we found a low amount of absentee voters, a low amount of early voters, a low amount of Democrats, and a low amount of Republicans. In Prince George's County, the third cluster, there is a high amount of absentee voters, a high amount of eraly voters, a lot of Democrats, and a low amount of Republicans. In Baltimore County, the fourth cluster, there is a high amount for all four variables. 
 
+These results were very interesting. In terms of party affiliation, the information on z-scores for Democrats and Republicans would be useful for candidates who are running for a position within the local or state government. Those running for office in the local government could look at the results of the cluster analysis and see which counties have high (or low) z-scores for number of Democrats and number of Republicans. If the z-score is low, the candidate may want to direct more resources and campaigning to those areas to capture more voters. 
 
-These results were very interesting. I am thinking it would be beneficial for candidates on the campaign trail to get an idea of how the voter base is clustered by county within states so that a Democrat, for example, would know which counties may lean either direction and thus be more susceptible to direct campaigning and rallying in those areas. Doing a cluster analysis using party affiliatoin could be beneficial to a politician as he/she could see where the z-scores for Republicans/Democrats are low, and then direct resources to those counties. 
+Out of Maryland, it may be beneficial to do a cluster analysis using party affiliation for swing states, as a candidate could again look at the z-scores for party affiliation and increase rallying and campaigning in the areas that have low scores. 
 
 In terms of absentee ballots, this data is useful for local governments that are considering automatically sending mail-in ballots to individuals within a county. Using a cluster analysis, local officials could see which counties have a high amount of people using absentee ballots, which likely means they would vote-by-mail if given the option. Thus, local officials could send mail-in ballots to individuals in counties with a high z-score for absentee voting. 
 
