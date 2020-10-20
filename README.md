@@ -50,6 +50,8 @@ Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be How
 
 <img width="783" alt="Screen Shot 2020-10-19 at 1 08 57 PM" src="https://user-images.githubusercontent.com/70858878/96488624-44e99b80-120c-11eb-9a9b-3123290d68ec.png">
 
+![image](https://user-images.githubusercontent.com/70858878/96641956-74bf9e80-12f3-11eb-8a3b-1d42c2733906.png)
+
 _Figure 3: data visualization of counties within each cluster_
 
 
