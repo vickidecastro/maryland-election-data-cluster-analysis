@@ -4,7 +4,7 @@
 I decided to explore this topic in the wake of the upcoming election on November 3, 2020. As someone who may live in Baltimore for the next few years after graduation, I wanted to see the voting patterns by county using the 2016 Maryland General Election Data, organized by county and party. I was particularly interested to see how the party affiliations affected the cluster analysis, as Maryland is known to be a blue state. 
 
 ## Business Question
-How is party affiliation information useful to a candidate running for local office? Are there any counties with a high amount of absentee voters that will be likely to use mail-in voting for the upcoming election? 
+How is party affiliation information useful to a candidate running for local office? Are there any counties with a high amount of absentee voters that will be likely to use mail-in voting for the upcoming election? Is early voting common on Maryland?
 
 
 ## Data Sources
