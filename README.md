@@ -50,11 +50,11 @@ Using Excel Solver to do a 4-cluster analysis, we found the 4 clusters to be How
 
 <img width="783" alt="Screen Shot 2020-10-19 at 1 08 57 PM" src="https://user-images.githubusercontent.com/70858878/96488624-44e99b80-120c-11eb-9a9b-3123290d68ec.png">
 
-
-
 _Figure 3: data visualization of counties within each cluster_
 
+![Picture1](https://user-images.githubusercontent.com/70858878/96642179-c700bf80-12f3-11eb-9f18-ad5a0b96535c.png)
 
+_Figure 4: bar chart of clusters_
 
 These results were very interesting. In terms of party affiliation, the information on z-scores for Democrats and Republicans would be useful for candidates who are running for a position within the local or state government, such as governor or county comissioner. Those running for office in the local government could look at the results of the cluster analysis and see which counties have high (or low) z-scores for number of Democrats and number of Republicans. If the z-score is low, the candidate may want to direct more resources and campaigning to those areas to capture more voters. 
 
